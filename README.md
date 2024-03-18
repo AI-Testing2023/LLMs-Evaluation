@@ -33,7 +33,7 @@
 *认知智能全国重点实验室.*<br>
 [[HomePage](https://www.cluebenchmarks.com/index.html)]
 
-**FlagEval (天秤大模型评测平台) **<br>
+**FlagEval (天秤大模型评测平台)**<br>
 *北京智源研究院.*<br>
 [[HomePage](https://flageval.baai.ac.cn/#/home)]
 
