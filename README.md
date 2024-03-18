@@ -29,13 +29,13 @@
 [[HomePage](https://opencompass.org.cn/home)]
 [[Github](https://opencompass.org.cn/home)]
 
-**FlagEval (天秤大模型评测平台) **<br>
-*北京智源研究院.*<br>
-[[HomePage](https://flageval.baai.ac.cn/#/home)]
-
 **SuperClue (中文语言理解测评基准)**<br>
 *认知智能全国重点实验室.*<br>
 [[HomePage](https://www.cluebenchmarks.com/index.html)]
+
+**FlagEval (天秤大模型评测平台) **<br>
+*北京智源研究院.*<br>
+[[HomePage](https://flageval.baai.ac.cn/#/home)]
 
 ## Review
 
@@ -115,11 +115,11 @@ ArXiv, 2023.
 
 ## Testing Tools
 
-**OpenEval(开放式大模型综合评估)**<br>
+**OpenEval (开放式大模型综合评估)**<br>
 *天津大学, 2023.*<br>
 [[HomePage](http://openeval.org.cn/)]
 
-**OpenCompass(司南)**<br>
+**OpenCompass (司南)**<br>
 *上海人工智能实验室, 2023.*<br>
 [[HomePage](https://opencompass.org.cn/home)]
 [[Github](https://opencompass.org.cn/home)]
