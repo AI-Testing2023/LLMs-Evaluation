@@ -10,6 +10,10 @@
 
 ## Evaluation System
 
+**OpenCompass （司南）**<br>
+*上海人工智能实验室, 2023.*<br>
+[[HomePage](https://opencompass.org.cn/home)]
+[[Github](https://opencompass.org.cn/home)]
 
 ## Review
 
