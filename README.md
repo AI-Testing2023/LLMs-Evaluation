@@ -17,7 +17,11 @@
 
 ## Review
 
-
+**A Survey on Evaluation of Large Language Models.**<br>
+*Y. Chang, X. Wang, et al.*<br>
+ArXiv, 2023.
+[[HomePage](https://arxiv.org/pdf/2307.03109.pdf)]
+[[Github](https://github.com/MLGroupJLU/LLM-eval-survey)]
 
 ## Testing Capability
 
