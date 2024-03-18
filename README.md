@@ -49,7 +49,7 @@ ArXiv, 2023.
 
 ### General-Oriented Testing (GOT)
 
-### Understanding
+#### Understanding
 
 **Measuring massive multitask language understanding.**<br>
 *D Hendrycks, C Burns, S Basart, A Zou, M Mazeika, D Song, J Steinhardt.*<br>
@@ -124,5 +124,7 @@ ArXiv, 2023.
 [[HomePage](https://opencompass.org.cn/home)]
 [[Github](https://opencompass.org.cn/home)]
 
-
-
+**LLMeBench: A Flexible Framework for Accelerating LLMs Benchmarking.**<br>
+*F Dalvi, M Hasanain, S Boughorbel, B Mousi, S Abdaljalil, N Nazar, A Abdelali, and et al.*<br>
+ArXiv, 2023.
+[[Github](https://github.com/qcri/LLMeBench/)]
