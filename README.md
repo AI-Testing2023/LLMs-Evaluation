@@ -16,18 +16,26 @@
 ## Group
 
 **天津大学自然语言处理实验室(tjunlp-lab)**<br>
-*熊德意.*<br>
-*天津大学.*<br>
+*熊德意*<br>
+*天津大学*<br>
 [[HomePage](https://tjunlp-lab.github.io/)]
 [[HomePage](https://dyxiong.github.io/)]
 [[Github](https://github.com/tjunlp-lab)]
 
-## Evaluation System
+## Evaluation System & Leaderboard
 
-**OpenCompass （司南）**<br>
-*上海人工智能实验室, 2023.*<br>
+**OpenCompass (司南)**<br>
+*上海人工智能实验室.*<br>
 [[HomePage](https://opencompass.org.cn/home)]
 [[Github](https://opencompass.org.cn/home)]
+
+**FlagEval (天秤大模型评测平台) **<br>
+*北京智源研究院.*<br>
+[[HomePage](https://flageval.baai.ac.cn/#/home)]
+
+**SuperClue (中文语言理解测评基准)**<br>
+*认知智能全国重点实验室.*<br>
+[[HomePage](https://www.cluebenchmarks.com/index.html)]
 
 ## Review
 
@@ -93,11 +101,17 @@ ICLR, 2024.
 
 ### Result Evaluation
 
-**JADE: A Linguistics-based Safety Evaluation Platform for Large Language Models.**<br>
-*M Zhang, X Pan, M Yang.*<br>
+**JudgeLM: Fine-tuned Large Language Models are Scalable Judges.**<br>
+*L Zhu, X Wang, X Wang.*<br>
 ArXiv, 2023.
-[[HomePage](https://arxiv.org/pdf/2311.00286.pdf)]
-[[Github](https://github.com/whitzard-ai/jade-db)]
+[[HomePage](https://arxiv.org/pdf/2310.17631.pdf)]
+[[Github](https://github.com/baaivision/JudgeLM)]
+
+**CRITIQUELLM: Scaling LLM-as-Critic for Effective and Explainable Evaluation of Large Language Model Generation.**<br>
+*P Ke, B Wen, Z Feng, X Liu, X Lei, J Cheng, S Wang, A Zeng, Y Dong, H Wang, J Tang, and et al.*<br>
+ArXiv, 2023.
+[[HomePage](https://arxiv.org/pdf/2311.18702.pdf)]
+[[Github](https://github.com/thu-coai/CritiqueLLM)]
 
 ## Testing Tools
 
@@ -105,3 +119,7 @@ ArXiv, 2023.
 *上海人工智能实验室, 2023.*<br>
 [[HomePage](https://opencompass.org.cn/home)]
 [[Github](https://opencompass.org.cn/home)]
+
+**OpenEval （开放式大模型综合评估）**<br>
+*天津大学, 2023.*<br>
+[[HomePage](http://openeval.org.cn/)]
