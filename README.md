@@ -53,9 +53,9 @@ ArXiv, 2023.
 
 ### Testing Capability
 
-#### General-Oriented Testing (GOT)
+#### ***General-Oriented Testing (GOT)***
 
-##### Understanding
+##### **Understanding**
 
 **Measuring massive multitask language understanding.**<br>
 *D Hendrycks, C Burns, S Basart, A Zou, M Mazeika, D Song, J Steinhardt.*<br>
