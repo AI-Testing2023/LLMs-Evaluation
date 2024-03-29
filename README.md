@@ -1,7 +1,5 @@
 # Large-Scale-Models-Evaluation-Survey
 
-## Journal
-
 ## Conference
 
 *NeurIPS (Datasets and Benchmarks Track)*<br>
