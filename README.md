@@ -64,9 +64,9 @@ ICLR, 2021.
 [[Github](https://github.com/hendrycks/test)]
 [[Datasets](https://huggingface.co/datasets/tasksource/mmlu)]
 
-#### Industry-Oriented Testing (IOT)
+#### 1.2 Industry-Oriented Testing (IOT)
 
-##### Finance
+##### 1.2.1 Finance
 
 **PIXIU: A Large Language Model, Instruction Data and Evaluation Benchmark for Finance.**<br>
 *Q Xie, W Han, X Zhang, Y Lai, M Peng, A Lopez-Lira, J Huang.*<br>
@@ -75,9 +75,9 @@ ArXiv, 2023.
 [[Github](https://github.com/The-FinAI/PIXIU)]
 [[Datasets](https://huggingface.co/ChanceFocus)]
 
-#### Application-Oriented Testing (AOT)
+#### 1.3 Application-Oriented Testing (AOT)
 
-##### AI Assistants
+##### 1.3.1 AI Assistants
 
 **GAIA: a benchmark for General AI Assistants.**<br>
 *G Mialon, C Fourrier, C Swift, T Wolf, Y LeCun, T Scialom.*<br>
@@ -85,9 +85,9 @@ ArXiv, 2023.
 [[HomePage](https://arxiv.org/pdf/2311.12983.pdf?trk=public_post_comment-text)]
 [[Datasets](https://huggingface.co/datasets/gaia-benchmark/GAIA)]
 
-#### Security-Oriented Testing (SOT)
+#### 1.4  Security-Oriented Testing (SOT)
 
-##### Content Security
+##### 1.4.1 Content Security
 
 **JADE: A Linguistics-based Safety Evaluation Platform for Large Language Models.**<br>
 *M Zhang, X Pan, M Yang.*<br>
@@ -95,17 +95,17 @@ ArXiv, 2023.
 [[HomePage](https://arxiv.org/pdf/2311.00286.pdf)]
 [[Github](https://github.com/whitzard-ai/jade-db)]
 
-### Testing Datasets
+### 2 Testing Datasets
 
-#### Data Generation
+#### 2.1 Data Generation
 
 **DyVal: Graph-informed Dynamic Evaluation of Large Language Models.**<br>
 *K Zhu, J Chen, J Wang, NZ Gong, D Yang, X Xie.*<br>
 ICLR, 2024.
 
-### Testing Methods
+### 3 Testing Methods
 
-#### Result Evaluation
+#### 3.1 Result Evaluation
 
 **JudgeLM: Fine-tuned Large Language Models are Scalable Judges.**<br>
 *L Zhu, X Wang, X Wang.*<br>
@@ -119,7 +119,7 @@ ArXiv, 2023.
 [[HomePage](https://arxiv.org/pdf/2311.18702.pdf)]
 [[Github](https://github.com/thu-coai/CritiqueLLM)]
 
-### Testing Tools
+### 4 Testing Tools
 
 **OpenCompass (司南)**<br>
 *上海人工智能实验室, 2023.*<br>
