@@ -1,4 +1,4 @@
-# Large-Models-Evaluation-Survey
+# Large-Scale-Models-Evaluation-Survey
 
 ## Journal
 
