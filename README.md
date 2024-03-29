@@ -51,11 +51,11 @@ ArXiv, 2023.
 
 ## Large Language Models (LLMs)
 
-### Testing Capability
+### 1 Testing Capability
 
-#### ***General-Oriented Testing (GOT)***
+#### 1.1 General-Oriented Testing (GOT)
 
-##### **Understanding**
+##### 1.1.1 Understanding
 
 **Measuring massive multitask language understanding.**<br>
 *D Hendrycks, C Burns, S Basart, A Zou, M Mazeika, D Song, J Steinhardt.*<br>
