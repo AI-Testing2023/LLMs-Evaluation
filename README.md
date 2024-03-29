@@ -22,16 +22,20 @@
 [[HomePage](https://dyxiong.github.io/)]
 [[Github](https://github.com/tjunlp-lab)]
 
-## Evaluation System & Leaderboard
+## Leaderboard
+
+**Open LLM Leaderboard**<br>
+*Huggingface.*<br>
+[[HomePage](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)]
+
+**SuperClue (中文语言理解测评基准)**<br>
+*认知智能全国重点实验室.*<br>
+[[HomePage](https://www.cluebenchmarks.com/index.html)]
 
 **OpenCompass (司南)**<br>
 *上海人工智能实验室.*<br>
 [[HomePage](https://opencompass.org.cn/home)]
 [[Github](https://opencompass.org.cn/home)]
-
-**SuperClue (中文语言理解测评基准)**<br>
-*认知智能全国重点实验室.*<br>
-[[HomePage](https://www.cluebenchmarks.com/index.html)]
 
 **FlagEval (天秤大模型评测平台)**<br>
 *北京智源研究院.*<br>
@@ -45,11 +49,13 @@ ArXiv, 2023.
 [[HomePage](https://arxiv.org/pdf/2307.03109.pdf)]
 [[Github](https://github.com/MLGroupJLU/LLM-eval-survey)]
 
-## Testing Capability
+## Large Language Models (LLMs)
 
-### General-Oriented Testing (GOT)
+### Testing Capability
 
-#### Understanding
+#### General-Oriented Testing (GOT)
+
+##### Understanding
 
 **Measuring massive multitask language understanding.**<br>
 *D Hendrycks, C Burns, S Basart, A Zou, M Mazeika, D Song, J Steinhardt.*<br>
@@ -58,9 +64,9 @@ ICLR, 2021.
 [[Github](https://github.com/hendrycks/test)]
 [[Datasets](https://huggingface.co/datasets/tasksource/mmlu)]
 
-### Industry-Oriented Testing (IOT)
+#### Industry-Oriented Testing (IOT)
 
-#### Finance
+##### Finance
 
 **PIXIU: A Large Language Model, Instruction Data and Evaluation Benchmark for Finance.**<br>
 *Q Xie, W Han, X Zhang, Y Lai, M Peng, A Lopez-Lira, J Huang.*<br>
@@ -69,9 +75,9 @@ ArXiv, 2023.
 [[Github](https://github.com/The-FinAI/PIXIU)]
 [[Datasets](https://huggingface.co/ChanceFocus)]
 
-### Application-Oriented Testing (AOT)
+#### Application-Oriented Testing (AOT)
 
-#### AI Assistants
+##### AI Assistants
 
 **GAIA: a benchmark for General AI Assistants.**<br>
 *G Mialon, C Fourrier, C Swift, T Wolf, Y LeCun, T Scialom.*<br>
@@ -79,9 +85,9 @@ ArXiv, 2023.
 [[HomePage](https://arxiv.org/pdf/2311.12983.pdf?trk=public_post_comment-text)]
 [[Datasets](https://huggingface.co/datasets/gaia-benchmark/GAIA)]
 
-### Security-Oriented Testing (SOT)
+#### Security-Oriented Testing (SOT)
 
-#### Content Security
+##### Content Security
 
 **JADE: A Linguistics-based Safety Evaluation Platform for Large Language Models.**<br>
 *M Zhang, X Pan, M Yang.*<br>
@@ -89,17 +95,17 @@ ArXiv, 2023.
 [[HomePage](https://arxiv.org/pdf/2311.00286.pdf)]
 [[Github](https://github.com/whitzard-ai/jade-db)]
 
-## Testing Datasets
+### Testing Datasets
 
-### Data Generation
+#### Data Generation
 
 **DyVal: Graph-informed Dynamic Evaluation of Large Language Models.**<br>
 *K Zhu, J Chen, J Wang, NZ Gong, D Yang, X Xie.*<br>
 ICLR, 2024.
 
-## Testing Methods
+### Testing Methods
 
-### Result Evaluation
+#### Result Evaluation
 
 **JudgeLM: Fine-tuned Large Language Models are Scalable Judges.**<br>
 *L Zhu, X Wang, X Wang.*<br>
@@ -113,15 +119,15 @@ ArXiv, 2023.
 [[HomePage](https://arxiv.org/pdf/2311.18702.pdf)]
 [[Github](https://github.com/thu-coai/CritiqueLLM)]
 
-## Testing Tools
-
-**OpenEval (开放式大模型综合评估)**<br>
-*天津大学, 2023.*<br>
-[[HomePage](http://openeval.org.cn/)]
+### Testing Tools
 
 **OpenCompass (司南)**<br>
 *上海人工智能实验室, 2023.*<br>
 [[HomePage](https://opencompass.org.cn/home)]
+
+**OpenEval (开放式大模型综合评估)**<br>
+*天津大学, 2023.*<br>
+[[HomePage](http://openeval.org.cn/)]
 [[Github](https://opencompass.org.cn/home)]
 
 **LLMeBench: A Flexible Framework for Accelerating LLMs Benchmarking.**<br>
