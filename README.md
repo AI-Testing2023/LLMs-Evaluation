@@ -28,6 +28,14 @@
 *Huggingface.*<br>
 [[HomePage](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)]
 
+**Chatbot Arena**<br>
+*LMSYS Org.*<br>
+[[HomePage](https://chat.lmsys.org/)]
+
+**AlpacaEval**<br>
+*LMSYS Org.*<br>
+[[HomePage](https://tatsu-lab.github.io/alpaca_eval/)]
+
 **SuperClue (中文语言理解测评基准)**<br>
 *认知智能全国重点实验室.*<br>
 [[HomePage](https://www.cluebenchmarks.com/index.html)]
@@ -46,7 +54,7 @@
 **A Survey on Evaluation of Large Language Models.**<br>
 *Y. Chang, X. Wang, et al.*<br>
 ArXiv, 2023.
-[[HomePage](https://arxiv.org/pdf/2307.03109.pdf)]
+[[Paper](https://arxiv.org/pdf/2307.03109.pdf)]
 [[Github](https://github.com/MLGroupJLU/LLM-eval-survey)]
 
 ## Large Language Models (LLMs)
@@ -60,7 +68,7 @@ ArXiv, 2023.
 **Measuring massive multitask language understanding.**<br>
 *D Hendrycks, C Burns, S Basart, A Zou, M Mazeika, D Song, J Steinhardt.*<br>
 ICLR, 2021.
-[[HomePage](https://arxiv.org/pdf/2009.03300.pdf?trk=public_post_comment-text)]
+[[Paper](https://arxiv.org/pdf/2009.03300.pdf?trk=public_post_comment-text)]
 [[Github](https://github.com/hendrycks/test)]
 [[Datasets](https://huggingface.co/datasets/tasksource/mmlu)]
 
@@ -71,7 +79,7 @@ ICLR, 2021.
 **PIXIU: A Large Language Model, Instruction Data and Evaluation Benchmark for Finance.**<br>
 *Q Xie, W Han, X Zhang, Y Lai, M Peng, A Lopez-Lira, J Huang.*<br>
 ArXiv, 2023.
-[[HomePage](https://arxiv.org/pdf/2306.05443.pdf)]
+[[Paper](https://arxiv.org/pdf/2306.05443.pdf)]
 [[Github](https://github.com/The-FinAI/PIXIU)]
 [[Datasets](https://huggingface.co/ChanceFocus)]
 
@@ -82,7 +90,7 @@ ArXiv, 2023.
 **GAIA: a benchmark for General AI Assistants.**<br>
 *G Mialon, C Fourrier, C Swift, T Wolf, Y LeCun, T Scialom.*<br>
 ArXiv, 2023.
-[[HomePage](https://arxiv.org/pdf/2311.12983.pdf?trk=public_post_comment-text)]
+[[Paper](https://arxiv.org/pdf/2311.12983.pdf?trk=public_post_comment-text)]
 [[Datasets](https://huggingface.co/datasets/gaia-benchmark/GAIA)]
 
 #### 1.4  Security-Oriented Testing (SOT)
@@ -92,7 +100,7 @@ ArXiv, 2023.
 **JADE: A Linguistics-based Safety Evaluation Platform for Large Language Models.**<br>
 *M Zhang, X Pan, M Yang.*<br>
 ArXiv, 2023.
-[[HomePage](https://arxiv.org/pdf/2311.00286.pdf)]
+[[Paper](https://arxiv.org/pdf/2311.00286.pdf)]
 [[Github](https://github.com/whitzard-ai/jade-db)]
 
 ### 2 Testing Datasets
@@ -110,13 +118,13 @@ ICLR, 2024.
 **JudgeLM: Fine-tuned Large Language Models are Scalable Judges.**<br>
 *L Zhu, X Wang, X Wang.*<br>
 ArXiv, 2023.
-[[HomePage](https://arxiv.org/pdf/2310.17631.pdf)]
+[[Paper](https://arxiv.org/pdf/2310.17631.pdf)]
 [[Github](https://github.com/baaivision/JudgeLM)]
 
 **CRITIQUELLM: Scaling LLM-as-Critic for Effective and Explainable Evaluation of Large Language Model Generation.**<br>
 *P Ke, B Wen, Z Feng, X Liu, X Lei, J Cheng, S Wang, A Zeng, Y Dong, H Wang, J Tang, and et al.*<br>
 ArXiv, 2023.
-[[HomePage](https://arxiv.org/pdf/2311.18702.pdf)]
+[[Paper](https://arxiv.org/pdf/2311.18702.pdf)]
 [[Github](https://github.com/thu-coai/CritiqueLLM)]
 
 ### 4 Testing Tools
