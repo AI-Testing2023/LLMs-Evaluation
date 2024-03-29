@@ -29,8 +29,12 @@
 [[HomePage](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)]
 
 **Chatbot Arena**<br>
+**MT-Bench**<br>
+**Judging LLM-as-a-judge with MT-Bench and Chatbot Arena.**<br>
+*L Zheng, WL Chiang, Y Sheng, S Zhuang, Z Wu, Y Zhuang, Z Lin, Z Li, D Li, E **ng, H Zhang, et al.*<br>
 *LMSYS Org.*<br>
 [[HomePage](https://chat.lmsys.org/)]
+[[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/91f18a1287b398d378ef22505bf41832-Paper-Datasets_and_Benchmarks.pdf)]
 
 **AlpacaEval**<br>
 **AlpacaFarm: A Simulation Framework for Methods that Learn from Human Feedback.**<br>
@@ -50,6 +54,15 @@
 **FlagEval (天秤大模型评测平台)**<br>
 *北京智源研究院.*<br>
 [[HomePage](https://flageval.baai.ac.cn/#/home)]
+
+**LLMEval**<br>
+**LLMEval: A Preliminary Study on How to Evaluate Large Language Models.**<br>
+*Y Zhang, M Zhang, H Yuan, S Liu, Y Shi, T Gui, Q Zhang, X Huang.*<br>
+*Fudan University.*<br>
+Proceedings of the AAAI Conference on Artificial Intelligence, 2024.
+[[HomePage](http://llmeval.com/index)]
+[[Paper](https://ojs.aaai.org/index.php/AAAI/article/download/29934/31632)]
+[[Github](https://github.com/llmeval/)]
 
 ## Review
 
@@ -146,3 +159,5 @@ ArXiv, 2023.
 ArXiv, 2023.
 [[ArXiv](https://arxiv.org/pdf/2308.04945.pdf)]
 [[Github](https://github.com/qcri/LLMeBench/)]
+
+## Multi-modal Models (MMMs)
