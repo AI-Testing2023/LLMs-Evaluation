@@ -33,8 +33,10 @@
 [[HomePage](https://chat.lmsys.org/)]
 
 **AlpacaEval**<br>
-*LMSYS Org.*<br>
+**AlpacaFarm: A Simulation Framework for Methods that Learn from Human Feedback.**<br>
+*Y Dubois, CX Li, R Taori, T Zhang, I Gulrajani, J Ba, C Guestrin, PS Liang, TB Hashimoto.*<br>
 [[HomePage](https://tatsu-lab.github.io/alpaca_eval/)]
+[[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/5fc47800ee5b30b8777fdd30abcaaf3b-Paper-Conference.pdf)]
 
 **SuperClue (中文语言理解测评基准)**<br>
 *认知智能全国重点实验室.*<br>
@@ -52,9 +54,10 @@
 ## Review
 
 **A Survey on Evaluation of Large Language Models.**<br>
-*Y. Chang, X. Wang, et al.*<br>
-ArXiv, 2023.
-[[Paper](https://arxiv.org/pdf/2307.03109.pdf)]
+*Y Chang, X Wang, J Wang, Y Wu, L Yang, K Zhu, H Chen, X Yi, C Wang, Y Wang, W Ye, et al.*<br>
+ACM Transactions on Intelligent Systems and Technology, 2023.
+[[Paper](https://dl.acm.org/doi/pdf/10.1145/3641289)]
+[[ArXiv](https://arxiv.org/pdf/2307.03109.pdf)]
 [[Github](https://github.com/MLGroupJLU/LLM-eval-survey)]
 
 ## Large Language Models (LLMs)
@@ -68,7 +71,7 @@ ArXiv, 2023.
 **Measuring massive multitask language understanding.**<br>
 *D Hendrycks, C Burns, S Basart, A Zou, M Mazeika, D Song, J Steinhardt.*<br>
 ICLR, 2021.
-[[Paper](https://arxiv.org/pdf/2009.03300.pdf?trk=public_post_comment-text)]
+[[ArXiv](https://arxiv.org/pdf/2009.03300.pdf?trk=public_post_comment-text)]
 [[Github](https://github.com/hendrycks/test)]
 [[Datasets](https://huggingface.co/datasets/tasksource/mmlu)]
 
@@ -79,7 +82,7 @@ ICLR, 2021.
 **PIXIU: A Large Language Model, Instruction Data and Evaluation Benchmark for Finance.**<br>
 *Q Xie, W Han, X Zhang, Y Lai, M Peng, A Lopez-Lira, J Huang.*<br>
 ArXiv, 2023.
-[[Paper](https://arxiv.org/pdf/2306.05443.pdf)]
+[[ArXiv](https://arxiv.org/pdf/2306.05443.pdf)]
 [[Github](https://github.com/The-FinAI/PIXIU)]
 [[Datasets](https://huggingface.co/ChanceFocus)]
 
@@ -90,7 +93,7 @@ ArXiv, 2023.
 **GAIA: a benchmark for General AI Assistants.**<br>
 *G Mialon, C Fourrier, C Swift, T Wolf, Y LeCun, T Scialom.*<br>
 ArXiv, 2023.
-[[Paper](https://arxiv.org/pdf/2311.12983.pdf?trk=public_post_comment-text)]
+[[ArXiv](https://arxiv.org/pdf/2311.12983.pdf?trk=public_post_comment-text)]
 [[Datasets](https://huggingface.co/datasets/gaia-benchmark/GAIA)]
 
 #### 1.4  Security-Oriented Testing (SOT)
@@ -100,7 +103,7 @@ ArXiv, 2023.
 **JADE: A Linguistics-based Safety Evaluation Platform for Large Language Models.**<br>
 *M Zhang, X Pan, M Yang.*<br>
 ArXiv, 2023.
-[[Paper](https://arxiv.org/pdf/2311.00286.pdf)]
+[[ArXiv](https://arxiv.org/pdf/2311.00286.pdf)]
 [[Github](https://github.com/whitzard-ai/jade-db)]
 
 ### 2 Testing Datasets
@@ -118,13 +121,13 @@ ICLR, 2024.
 **JudgeLM: Fine-tuned Large Language Models are Scalable Judges.**<br>
 *L Zhu, X Wang, X Wang.*<br>
 ArXiv, 2023.
-[[Paper](https://arxiv.org/pdf/2310.17631.pdf)]
+[[ArXiv](https://arxiv.org/pdf/2310.17631.pdf)]
 [[Github](https://github.com/baaivision/JudgeLM)]
 
 **CRITIQUELLM: Scaling LLM-as-Critic for Effective and Explainable Evaluation of Large Language Model Generation.**<br>
 *P Ke, B Wen, Z Feng, X Liu, X Lei, J Cheng, S Wang, A Zeng, Y Dong, H Wang, J Tang, and et al.*<br>
 ArXiv, 2023.
-[[Paper](https://arxiv.org/pdf/2311.18702.pdf)]
+[[ArXiv](https://arxiv.org/pdf/2311.18702.pdf)]
 [[Github](https://github.com/thu-coai/CritiqueLLM)]
 
 ### 4 Testing Tools
@@ -141,4 +144,5 @@ ArXiv, 2023.
 **LLMeBench: A Flexible Framework for Accelerating LLMs Benchmarking.**<br>
 *F Dalvi, M Hasanain, S Boughorbel, B Mousi, S Abdaljalil, N Nazar, A Abdelali, and et al.*<br>
 ArXiv, 2023.
+[[ArXiv](https://arxiv.org/pdf/2308.04945.pdf)]
 [[Github](https://github.com/qcri/LLMeBench/)]
