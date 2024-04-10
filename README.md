@@ -240,6 +240,11 @@ ArXiv, 2023.
 
 #### Education
 
+**Who is ChatGPT? Benchmarking LLMs' Psychological Portrayal Using PsychoBench.**<br>
+*Jen-tse Huang, Wenxuan Wang, Eric John Li, Man Ho Lam, Shujie Ren, Youliang Yuan, Wenxiang Jiao, Zhaopeng Tu, Michael R. Lyu.*<br>
+ArXiv, 2023.
+[[ArXiv](https://arxiv.org/abs/2310.01386)]
+[[Github](https://github.com/CUHK-ARISE/PsychoBench)]
 
 
 #### Law
@@ -349,4 +354,4 @@ ArXiv, 2023.
 [[ArXiv](https://arxiv.org/pdf/2308.04945.pdf)]
 [[Github](https://github.com/qcri/LLMeBench/)]
 
-# Multi-modal Models (MMMs)
+## Multi-modal Models (MMMs)
