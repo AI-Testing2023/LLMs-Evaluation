@@ -42,8 +42,8 @@ Advances in Neural Information Processing Systems, 2024.
 [[HomePage](https://tatsu-lab.github.io/alpaca_eval/)]
 [[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/5fc47800ee5b30b8777fdd30abcaaf3b-Paper-Conference.pdf)]
 
-**SuperClue (中文语言理解测评基准)**<br>
-*认知智能全国重点实验室.*<br>
+**SuperCLUE (中文语言理解测评基准)**<br>
+*ChineseCLUE.*<br>
 [[HomePage](https://www.cluebenchmarks.com/index.html)]
 
 **OpenCompass (司南)**<br>
@@ -79,11 +79,9 @@ ACM Transactions on Intelligent Systems and Technology, 2023.
 
 ## Large Language Models (LLMs)
 
-### 1 Testing Capability
+### General
 
-#### 1.1 General-Oriented Testing (GOT)
-
-##### 1.1.1 Understanding
+#### Understanding
 
 **Measuring massive multitask language understanding.**<br>
 *D Hendrycks, C Burns, S Basart, A Zou, M Mazeika, D Song, J Steinhardt.*<br>
@@ -92,9 +90,43 @@ ICLR, 2021.
 [[Github](https://github.com/hendrycks/test)]
 [[Datasets](https://huggingface.co/datasets/tasksource/mmlu)]
 
-#### 1.2 Industry-Oriented Testing (IOT)
+#### Reasoning
 
-##### 1.2.1 Finance
+**Measuring Mathematical Problem Solving With the MATH Dataset.**<br>
+*Dan Hendrycks, Collin Burns, Saurav Kadavath, Akul Arora, Steven Basart, Eric Tang, Dawn Song, Jacob Steinhardt.*<br>
+Nips, 2021.
+[[ArXiv](https://arxiv.org/abs/2103.03874)]
+[[Datasets](https://paperswithcode.com/task/math-word-problem-solving)]
+
+**Deep Neural Solver for Math Word Problems.**<br>
+*Yan Wang, Xiaojiang Liu, Shuming Shi.*<br>
+EMNLP, 2017.
+[[Paper](https://aclanthology.org/D17-1088/)]
+[[Datasets](https://paperswithcode.com/task/math-word-problem-solving)]
+
+**Training verifiers to solve math word problems.**<br>
+*Karl Cobbe, Vineet Kosaraju, Mohammad Bavarian, Mark Chen, Heewoo Jun, Lukasz Kaiser, Matthias Plappert, Jerry Tworek, Jacob Hilton, Reiichiro Nakano, Christopher Hesse, John Schulman.*<br>
+ArXiv, 2021.
+[[ArXiv](https://arxiv.org/abs/2110.14168)]
+[[Github](https://github.com/openai/grade_x005f_x0002_school-math)]
+[[Datasets](https://huggingface.co/datasets/gsm8k)]
+
+**CMATH: Can Your Language Model Pass Chinese Elementary School Math Test?.**<br>
+*Tianwen Wei, Jian Luan, Wei Liu, Shuang Dong, Bin Wang.*<br>
+ArXiv, 2023.
+[[ArXiv](https://arxiv.org/abs/2306.16636)]
+[[Datasets](https://huggingface.co/datasets/weitianwen/cmath)]
+
+**MathVista: Evaluating Mathematical Reasoning of Foundation Models in Visual Contexts.**<br>
+*Pan Lu, Hritik Bansal, Tony Xia, Jiacheng Liu, Chunyuan Li, Hannaneh Hajishirzi, Hao Cheng, Kai-Wei Chang, Michel Galley, Jianfeng Gao.*<br>
+AAAI, 2020.
+[[ArXiv](https://arxiv.org/abs/2310.01386)]
+[[Github](https://github.com/lupantech/MathVista)]
+[[Datasets](https://huggingface.co/datasets/AI4Math/MathVista)]
+
+### Industry
+
+#### Finance
 
 **WHEN FLUE MEETS FLANG: Benchmarks and Large Pre-trained Language Model for Financial Domain.**<br>
 *Raj Sanjay Shah, Kunal Chawla, Dheeraj Eidnani, Agam Shah, Wendi Du, Sudheer Chava, Natraj Raman, Charese Smiley, Jiaao Chen, Diyi Yang.*<br>
@@ -136,7 +168,7 @@ ArXiv, 2023.
 [[ArXiv](https://arxiv.org/pdf/2311.11944.pdf)]
 [[Github](https://github.com/patronus-ai/financebench)]
 
-##### 1.2.2 Medical
+#### Medical
 
 **PubMedQA: A Dataset for Biomedical Research Question Answering.**<br>
 *Qiao Jin, Bhuwan Dhingra, Zhengping Liu, William W. Cohen, Xinghua Lu.*<br>
@@ -206,41 +238,11 @@ ArXiv, 2023.
 [[ArXiv](https://arxiv.org/abs/2310.01386)]
 [[Github](https://github.com/CUHK-ARISE/PsychoBench)]
 
-##### 1.2.3 Education
+#### Education
 
-**Measuring Mathematical Problem Solving With the MATH Dataset.**<br>
-*Dan Hendrycks, Collin Burns, Saurav Kadavath, Akul Arora, Steven Basart, Eric Tang, Dawn Song, Jacob Steinhardt.*<br>
-Nips, 2021.
-[[ArXiv](https://arxiv.org/abs/2103.03874)]
-[[Datasets](https://paperswithcode.com/task/math-word-problem-solving)]
 
-**Deep Neural Solver for Math Word Problems.**<br>
-*Yan Wang, Xiaojiang Liu, Shuming Shi.*<br>
-EMNLP, 2017.
-[[Paper](https://aclanthology.org/D17-1088/)]
-[[Datasets](https://paperswithcode.com/task/math-word-problem-solving)]
 
-**Training verifiers to solve math word problems.**<br>
-*Karl Cobbe, Vineet Kosaraju, Mohammad Bavarian, Mark Chen, Heewoo Jun, Lukasz Kaiser, Matthias Plappert, Jerry Tworek, Jacob Hilton, Reiichiro Nakano, Christopher Hesse, John Schulman.*<br>
-ArXiv, 2021.
-[[ArXiv](https://arxiv.org/abs/2110.14168)]
-[[Github](https://github.com/openai/grade_x005f_x0002_school-math)]
-[[Datasets](https://huggingface.co/datasets/gsm8k)]
-
-**CMATH: Can Your Language Model Pass Chinese Elementary School Math Test?.**<br>
-*Tianwen Wei, Jian Luan, Wei Liu, Shuang Dong, Bin Wang.*<br>
-ArXiv, 2023.
-[[ArXiv](https://arxiv.org/abs/2306.16636)]
-[[Datasets](https://huggingface.co/datasets/weitianwen/cmath)]
-
-**MathVista: Evaluating Mathematical Reasoning of Foundation Models in Visual Contexts.**<br>
-*Pan Lu, Hritik Bansal, Tony Xia, Jiacheng Liu, Chunyuan Li, Hannaneh Hajishirzi, Hao Cheng, Kai-Wei Chang, Michel Galley, Jianfeng Gao.*<br>
-AAAI, 2020.
-[[ArXiv](https://arxiv.org/abs/2310.01386)]
-[[Github](https://github.com/lupantech/MathVista)]
-[[Datasets](https://huggingface.co/datasets/AI4Math/MathVista)]
-
-##### 1.2.4 Law
+#### Law
 
 **JEC-QA: A Legal-Domain Question Answering Dataset.**<br>
 *Haoxi Zhong, Chaojun Xiao, Cunchao Tu, Tianyang Zhang, Zhiyuan Liu, Maosong Sun.*<br>
@@ -272,7 +274,7 @@ ArXiv, 2023.
 [[ArXiv](https://arxiv.org/abs/2310.05620)]
 [[Github](https://github.com/CSHaitao/LexiLaw)]
 
-##### 1.2.5 Telecommunication
+#### Communication
 
 **TeleQnA: A Benchmark Dataset to Assess Large Language Models Telecommunications Knowledge.**<br>
 *Ali Maatouk, Fadhel Ayed, Nicola Piovesan, Antonio De Domenico, Merouane Debbah, Zhi-Quan Luo.*<br>
@@ -286,9 +288,9 @@ ArXiv, 2023.
 [[ArXiv](https://arxiv.org/abs/2309.05557)]
 [[Datasets](https://huggingface.co/datasets/NASP/neteval-exam,https://modelscope.cn/datasets/nasp/neteval-exam)]
 
-#### 1.3 Application-Oriented Testing (AOT)
+### Application
 
-##### 1.3.1 AI Assistants
+#### AI Assistants
 
 **GAIA: a benchmark for General AI Assistants.**<br>
 *G Mialon, C Fourrier, C Swift, T Wolf, Y LeCun, T Scialom.*<br>
@@ -296,9 +298,9 @@ ArXiv, 2023.
 [[ArXiv](https://arxiv.org/pdf/2311.12983.pdf?trk=public_post_comment-text)]
 [[Datasets](https://huggingface.co/datasets/gaia-benchmark/GAIA)]
 
-#### 1.4  Security-Oriented Testing (SOT)
+### Security
 
-##### 1.4.1 Content Security
+#### Content
 
 **JADE: A Linguistics-based Safety Evaluation Platform for Large Language Models.**<br>
 *M Zhang, X Pan, M Yang.*<br>
@@ -306,17 +308,17 @@ ArXiv, 2023.
 [[ArXiv](https://arxiv.org/pdf/2311.00286.pdf)]
 [[Github](https://github.com/whitzard-ai/jade-db)]
 
-### 2 Testing Datasets
+### Testing Datasets
 
-#### 2.1 Data Generation
+#### Data Generation
 
 **DyVal: Graph-informed Dynamic Evaluation of Large Language Models.**<br>
 *K Zhu, J Chen, J Wang, NZ Gong, D Yang, X Xie.*<br>
 ICLR, 2024.
 
-### 3 Testing Methods
+### Testing Methods
 
-#### 3.1 Result Evaluation
+#### Result Evaluation
 
 **JudgeLM: Fine-tuned Large Language Models are Scalable Judges.**<br>
 *L Zhu, X Wang, X Wang.*<br>
@@ -330,7 +332,7 @@ ArXiv, 2023.
 [[ArXiv](https://arxiv.org/pdf/2311.18702.pdf)]
 [[Github](https://github.com/thu-coai/CritiqueLLM)]
 
-### 4 Testing Tools
+### Testing Tools
 
 **OpenCompass (司南)**<br>
 *上海人工智能实验室, 2023.*<br>
@@ -347,4 +349,4 @@ ArXiv, 2023.
 [[ArXiv](https://arxiv.org/pdf/2308.04945.pdf)]
 [[Github](https://github.com/qcri/LLMeBench/)]
 
-## Multi-modal Models (MMMs)
+# Multi-modal Models (MMMs)
