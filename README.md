@@ -1,4 +1,4 @@
-# Large-Scale-Models-Evaluation-Survey
+# Large-Language-Models-(LLMs)-Evaluation-Survey
 
 ## Conference
 
@@ -77,11 +77,9 @@ ACM Transactions on Intelligent Systems and Technology, 2023.
 [[ArXiv](https://arxiv.org/pdf/2307.03109.pdf)]
 [[Github](https://github.com/MLGroupJLU/LLM-eval-survey)]
 
-## Large Language Models (LLMs)
+## General
 
-### General
-
-#### Understanding
+### Understanding
 
 **Measuring massive multitask language understanding.**<br>
 *D Hendrycks, C Burns, S Basart, A Zou, M Mazeika, D Song, J Steinhardt.*<br>
@@ -90,7 +88,7 @@ ICLR, 2021.
 [[Github](https://github.com/hendrycks/test)]
 [[Datasets](https://huggingface.co/datasets/tasksource/mmlu)]
 
-#### Reasoning
+### Reasoning
 
 **Measuring Mathematical Problem Solving With the MATH Dataset.**<br>
 *Dan Hendrycks, Collin Burns, Saurav Kadavath, Akul Arora, Steven Basart, Eric Tang, Dawn Song, Jacob Steinhardt.*<br>
@@ -124,9 +122,9 @@ AAAI, 2020.
 [[Github](https://github.com/lupantech/MathVista)]
 [[Datasets](https://huggingface.co/datasets/AI4Math/MathVista)]
 
-### Industry
+## Industry
 
-#### Finance
+### Finance
 
 **WHEN FLUE MEETS FLANG: Benchmarks and Large Pre-trained Language Model for Financial Domain.**<br>
 *Raj Sanjay Shah, Kunal Chawla, Dheeraj Eidnani, Agam Shah, Wendi Du, Sudheer Chava, Natraj Raman, Charese Smiley, Jiaao Chen, Diyi Yang.*<br>
@@ -168,7 +166,7 @@ ArXiv, 2023.
 [[ArXiv](https://arxiv.org/pdf/2311.11944.pdf)]
 [[Github](https://github.com/patronus-ai/financebench)]
 
-#### Medical
+### Medical
 
 **PubMedQA: A Dataset for Biomedical Research Question Answering.**<br>
 *Qiao Jin, Bhuwan Dhingra, Zhengping Liu, William W. Cohen, Xinghua Lu.*<br>
@@ -238,7 +236,7 @@ ArXiv, 2023.
 [[ArXiv](https://arxiv.org/abs/2310.01386)]
 [[Github](https://github.com/CUHK-ARISE/PsychoBench)]
 
-#### Education
+### Education
 
 **Who is ChatGPT? Benchmarking LLMs' Psychological Portrayal Using PsychoBench.**<br>
 *Jen-tse Huang, Wenxuan Wang, Eric John Li, Man Ho Lam, Shujie Ren, Youliang Yuan, Wenxiang Jiao, Zhaopeng Tu, Michael R. Lyu.*<br>
@@ -247,7 +245,7 @@ ArXiv, 2023.
 [[Github](https://github.com/CUHK-ARISE/PsychoBench)]
 
 
-#### Law
+### Law
 
 **JEC-QA: A Legal-Domain Question Answering Dataset.**<br>
 *Haoxi Zhong, Chaojun Xiao, Cunchao Tu, Tianyang Zhang, Zhiyuan Liu, Maosong Sun.*<br>
@@ -279,7 +277,7 @@ ArXiv, 2023.
 [[ArXiv](https://arxiv.org/abs/2310.05620)]
 [[Github](https://github.com/CSHaitao/LexiLaw)]
 
-#### Communication
+### Communication
 
 **TeleQnA: A Benchmark Dataset to Assess Large Language Models Telecommunications Knowledge.**<br>
 *Ali Maatouk, Fadhel Ayed, Nicola Piovesan, Antonio De Domenico, Merouane Debbah, Zhi-Quan Luo.*<br>
@@ -293,9 +291,9 @@ ArXiv, 2023.
 [[ArXiv](https://arxiv.org/abs/2309.05557)]
 [[Datasets](https://huggingface.co/datasets/NASP/neteval-exam,https://modelscope.cn/datasets/nasp/neteval-exam)]
 
-### Application
+## Applications
 
-#### AI Assistants
+### AI Assistants
 
 **GAIA: a benchmark for General AI Assistants.**<br>
 *G Mialon, C Fourrier, C Swift, T Wolf, Y LeCun, T Scialom.*<br>
@@ -303,9 +301,9 @@ ArXiv, 2023.
 [[ArXiv](https://arxiv.org/pdf/2311.12983.pdf?trk=public_post_comment-text)]
 [[Datasets](https://huggingface.co/datasets/gaia-benchmark/GAIA)]
 
-### Security
+## Security
 
-#### Content
+### Content
 
 **JADE: A Linguistics-based Safety Evaluation Platform for Large Language Models.**<br>
 *M Zhang, X Pan, M Yang.*<br>
@@ -313,17 +311,17 @@ ArXiv, 2023.
 [[ArXiv](https://arxiv.org/pdf/2311.00286.pdf)]
 [[Github](https://github.com/whitzard-ai/jade-db)]
 
-### Testing Datasets
+## Testing Datasets
 
-#### Data Generation
+### Data Generation
 
 **DyVal: Graph-informed Dynamic Evaluation of Large Language Models.**<br>
 *K Zhu, J Chen, J Wang, NZ Gong, D Yang, X Xie.*<br>
 ICLR, 2024.
 
-### Testing Methods
+## Testing Methods
 
-#### Result Evaluation
+### Result Evaluation
 
 **JudgeLM: Fine-tuned Large Language Models are Scalable Judges.**<br>
 *L Zhu, X Wang, X Wang.*<br>
@@ -337,7 +335,7 @@ ArXiv, 2023.
 [[ArXiv](https://arxiv.org/pdf/2311.18702.pdf)]
 [[Github](https://github.com/thu-coai/CritiqueLLM)]
 
-### Testing Tools
+## Testing Tools
 
 **OpenCompass (司南)**<br>
 *上海人工智能实验室, 2023.*<br>
@@ -353,6 +351,4 @@ ArXiv, 2023.
 ArXiv, 2023.
 [[ArXiv](https://arxiv.org/pdf/2308.04945.pdf)]
 [[Github](https://github.com/qcri/LLMeBench/)]
-
-## Multi-modal Models (MMMs)
 
