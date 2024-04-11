@@ -346,6 +346,12 @@ ArXiv, 2023.
 [[HomePage](http://openeval.org.cn/)]
 [[Github](https://opencompass.org.cn/home)]
 
+**LLMeBench: A Flexible Framework for Accelerating LLMs Benchmarking.**<br>
+*F Dalvi, M Hasanain, S Boughorbel, B Mousi, S Abdaljalil, N Nazar, A Abdelali, and et al.*<br>
+ArXiv, 2023.
+[[ArXiv](https://arxiv.org/pdf/2308.04945.pdf)]
+[[Github](https://github.com/qcri/LLMeBench/)]
+
 # Multi-Modals-Models-(MMMs)-Evaluation-Survey
 
 ## Review
@@ -365,10 +371,3 @@ ArXiv, 2024.
 ArXiv, 2023.
 [[ArXiv](https://arxiv.org/pdf/2307.06281.pdf)]
 [[Github](https://mmbench.opencompass.org.cn/home)]
-
-**LLMeBench: A Flexible Framework for Accelerating LLMs Benchmarking.**<br>
-*F Dalvi, M Hasanain, S Boughorbel, B Mousi, S Abdaljalil, N Nazar, A Abdelali, and et al.*<br>
-ArXiv, 2023.
-[[ArXiv](https://arxiv.org/pdf/2308.04945.pdf)]
-[[Github](https://github.com/qcri/LLMeBench/)]
-
